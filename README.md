@@ -1,7 +1,7 @@
 # calculador_gasto_tarifas_electricas
 Este script nos indica cuanto habriamos consumido durante el ultimo año con las distintas tarifas electricas  de distintas compañias.
 # AVISO:  Los precios en el script son de tarifas a fecha 21/11/2026.
-evidentemente, deben de ser actualizados si vas a emplearlo
+Evidentemente, deben de ser actualizados si vas a emplearlo
 
 
 Comparador de tarifas eléctricas con tu consumo horario
